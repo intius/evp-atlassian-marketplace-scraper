@@ -13,7 +13,7 @@
           ]
         }
       },
-      "id": "a1828d6f-e68b-4fcf-816e-c55265fc6208",
+      "id": "f88f9385-3380-4403-8157-495ac183afe0",
       "name": "Run every morning",
       "type": "n8n-nodes-base.scheduleTrigger",
       "typeVersion": 1.2,
@@ -41,7 +41,7 @@
         "build": "latest",
         "authentication": "apifyApi"
       },
-      "id": "6427f3c0-f7c7-49e5-9e4d-a219d1fbd93e",
+      "id": "6dbab617-f935-46f3-89d1-86b2506086bb",
       "name": "Run Atlassian Marketplace Scraper",
       "type": "@apify/n8n-nodes-apify.apify",
       "typeVersion": 1,
@@ -64,7 +64,7 @@
         "body": "={{ $json }}",
         "options": {}
       },
-      "id": "8bf8b47b-588d-4b97-89d5-76a158a47124",
+      "id": "95fb4c04-786e-4e17-afd7-1b5a8955cbd9",
       "name": "Send results to webhook",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
