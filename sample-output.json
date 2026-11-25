@@ -1,0 +1,195 @@
+[
+  {
+    "name": "Xray - Test Management for Jira",
+    "addonKey": "com.xpandit.plugins.xray",
+    "addonId": "1211769",
+    "url": "https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira",
+    "tagline": "Jira-native Test Management. Plan, track, and release with confidence across DevOps workflows, powered by AI",
+    "summary": "Complete your DevOps workflow with a Jira-native quality hub delivering visibility, traceability, and control across the SDLC, so teams can release the highest-quality software faster, with confidence.",
+    "vendorName": "Xblend",
+    "vendorUrl": "https://marketplace.atlassian.com/vendors/31085/xblend",
+    "categories": [
+      "Testing & QA",
+      "Custom fields",
+      "Dashboard gadgets",
+      "Jira Software",
+      "Jira Service Desk"
+    ],
+    "installs": 25108,
+    "downloads": 378786,
+    "rating": 4.3,
+    "reviewCount": 555,
+    "lastModified": "2026-11-23T18:28:38.130148700Z",
+    "logoUrl": "https://marketplace.atlassian.com/product-listing/files/b45befef-64f0-4741-ba20-efcbb0d5246f?width=72&height=72",
+    "hosting": [
+      "cloud"
+    ],
+    "cloudFortified": true,
+    "storesPersonalData": false,
+    "supportUrl": "https://xraysupport.getxray.app",
+    "privacyUrl": "https://www.sembi.com/legal/sembi-privacypolicy/",
+    "keywords": [
+      "Agile Methodology",
+      "CI/CD",
+      "Testing & QA",
+      "Release Management"
+    ],
+    "version": "17.4.0",
+    "pricingModel": "atlassian",
+    "versionReleaseDate": "2026-11-24"
+  },
+  {
+    "name": "AIO Tests: QA Testing and Test Management for Jira",
+    "addonKey": "com.kaanha.jira.tcms",
+    "addonId": "1222843",
+    "url": "https://marketplace.atlassian.com/apps/1222843/aio-tests-qa-testing-and-test-management-for-jira",
+    "tagline": "Everything QA needs to ship with confidence: test cases with AI, BDD, execution, automation, traceability matrix and test reports",
+    "summary": "Jira-native test management: test case management, test execution, test automation with CI/CD, regression, manual and UAT testing, AI test case generation, BDD, requirements traceability, test coverage, defect tracking, test reports and dashboards.",
+    "vendorName": "Navarambh Software Pvt. Ltd.",
+    "vendorUrl": "https://marketplace.atlassian.com/vendors/1211784/navarambh-software-pvt-ltd",
+    "categories": [
+      "Custom fields",
+      "Dashboard gadgets",
+      "Project management",
+      "Testing & QA",
+      "Jira Software",
+      "Jira Service Desk"
+    ],
+    "installs": 3385,
+    "downloads": 23330,
+    "rating": 4.9,
+    "reviewCount": 122,
+    "lastModified": "2026-11-23T07:51:12.864159243Z",
+    "logoUrl": "https://marketplace.atlassian.com/product-listing/files/7ad5d49e-a73b-418e-9064-1819698081de?width=72&height=72",
+    "hosting": [
+      "cloud"
+    ],
+    "cloudFortified": true,
+    "storesPersonalData": false,
+    "supportUrl": "https://aioreports.atlassian.net/servicedesk/customer/portal/10",
+    "privacyUrl": "https://www.aiotests.com/eula",
+    "keywords": [
+      "Automation",
+      "CI/CD",
+      "Testing & QA",
+      "Artificial Intelligence"
+    ],
+    "version": "14.11.0",
+    "pricingModel": "atlassian",
+    "versionReleaseDate": "2026-11-21"
+  },
+  {
+    "name": "Zephyr - Test Management and Automation for Jira",
+    "addonKey": "com.kanoah.test-manager",
+    "addonId": "1213259",
+    "url": "https://marketplace.atlassian.com/apps/1213259/zephyr-test-management-and-automation-for-jira",
+    "tagline": "Scale test management and automation in Jira with Rovo. Deliver trusted software faster",
+    "summary": "Manage, reuse, and automate tests across projects-all inside Jira. Align teams and catch defects quickly with AI-powered, no-code automation. Gain full visibility with seamless test execution, cross-project sharing, and built-in reporting.",
+    "vendorName": "SmartBear",
+    "vendorUrl": "https://marketplace.atlassian.com/vendors/17834/smartbear",
+    "categories": [
+      "Custom fields",
+      "Dashboard gadgets",
+      "Reports",
+      "Testing & QA",
+      "Jira Software",
+      "Jira Service Desk"
+    ],
+    "installs": 14525,
+    "downloads": 181277,
+    "rating": 4.13,
+    "reviewCount": 494,
+    "lastModified": "2026-11-12T19:18:07.917136194Z",
+    "logoUrl": "https://marketplace.atlassian.com/product-listing/files/479d33c2-93c8-4afb-bda5-ef68b9f04166?width=72&height=72",
+    "hosting": [
+      "cloud"
+    ],
+    "cloudFortified": true,
+    "storesPersonalData": false,
+    "supportUrl": "https://support.smartbear.com",
+    "privacyUrl": "https://smartbear.com/privacy/",
+    "keywords": [
+      "Testing & QA",
+      "Artificial Intelligence",
+      "Automation"
+    ],
+    "version": "24.0.0",
+    "pricingModel": "atlassian",
+    "versionReleaseDate": "2026-11-23"
+  },
+  {
+    "name": "Zephyr Essential - Test Management for Jira",
+    "addonKey": "com.thed.zephyr.je",
+    "addonId": "1014681",
+    "url": "https://marketplace.atlassian.com/apps/1014681/zephyr-essential-test-management-for-jira",
+    "tagline": "Manage, track, and report on tests inside Jira at any scale, so you scale test management without slowing Jira",
+    "summary": "Manage, organize, execute, and report on tests inside Jira. Get full traceability from requirements to defects, unlimited storage, and cross-project reporting, built to keep Jira fast as your testing scales.",
+    "vendorName": "SmartBear",
+    "vendorUrl": "https://marketplace.atlassian.com/vendors/17834/smartbear",
+    "categories": [
+      "Custom fields",
+      "Dashboard gadgets",
+      "Testing & QA",
+      "Jira Software",
+      "Jira Service Desk"
+    ],
+    "installs": 9698,
+    "downloads": 392227,
+    "rating": 3.9,
+    "reviewCount": 900,
+    "lastModified": "2026-10-30T15:26:59.279278689Z",
+    "logoUrl": "https://marketplace.atlassian.com/product-listing/files/a84eb767-616c-43a5-804b-b8b78c643621?width=72&height=72",
+    "hosting": [
+      "datacenter"
+    ],
+    "storesPersonalData": false,
+    "supportUrl": "https://support.smartbear.com",
+    "privacyUrl": "https://smartbear.com/privacy/",
+    "keywords": [
+      "Testing & QA"
+    ],
+    "version": "11.1.0.111010383",
+    "pricingModel": "atlassian",
+    "versionReleaseDate": "2026-11-05"
+  },
+  {
+    "name": "Agile Test - Enterprise QA Testing, Test Management for Jira",
+    "addonKey": "com.devsamurai.plugin.jira.agile-test",
+    "addonId": "1230085",
+    "url": "https://marketplace.atlassian.com/apps/1230085/agile-test-enterprise-qa-testing-test-management-for-jira",
+    "tagline": "From agile teams to enterprise QA. One unified testing platform supporting every testing strategy, workflow, and quality process",
+    "summary": "AgileTest is a comprehensive, full-featured test management solution for Jira, it supports all possible testing management strategies Scripts, Sessions, Test Case Management and Test Automation and more.",
+    "vendorName": "DevSamurai",
+    "vendorUrl": "https://marketplace.atlassian.com/vendors/1216701/devsamurai",
+    "categories": [
+      "Project management",
+      "Reports",
+      "Tasks",
+      "Testing & QA",
+      "Jira Software",
+      "Jira Service Desk"
+    ],
+    "installs": 1103,
+    "downloads": 2221,
+    "rating": 4.65,
+    "reviewCount": 74,
+    "lastModified": "2026-10-22T20:34:14.985331332Z",
+    "logoUrl": "https://marketplace.atlassian.com/product-listing/files/e5123930-28e2-4ce7-99eb-b0a55a22f802?width=72&height=72",
+    "hosting": [
+      "cloud"
+    ],
+    "cloudFortified": true,
+    "storesPersonalData": false,
+    "supportUrl": "https://devsamurai.atlassian.net/servicedesk/customer/portal/21",
+    "privacyUrl": "https://www.devsamurai.com/en/atlassian-eula-and-privacy-policy/",
+    "keywords": [
+      "Testing & QA",
+      "Agile Methodology",
+      "Requirements Management",
+      "Release Management"
+    ],
+    "version": "5.20.0",
+    "pricingModel": "atlassian",
+    "versionReleaseDate": "2026-11-25"
+  }
+]
