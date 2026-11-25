@@ -13,7 +13,7 @@
           ]
         }
       },
-      "id": "f88f9385-3380-4403-8157-495ac183afe0",
+      "id": "f9dd5b88-8667-456d-851f-1b211c7f2089",
       "name": "Run every morning",
       "type": "n8n-nodes-base.scheduleTrigger",
       "typeVersion": 1.2,
@@ -41,7 +41,7 @@
         "build": "latest",
         "authentication": "apifyApi"
       },
-      "id": "6dbab617-f935-46f3-89d1-86b2506086bb",
+      "id": "6f292ff4-b8f9-4b15-8138-0e98de5ffead",
       "name": "Run Atlassian Marketplace Scraper",
       "type": "@apify/n8n-nodes-apify.apify",
       "typeVersion": 1,
@@ -60,11 +60,11 @@
         "method": "POST",
         "url": "https://webhook.site/your-unique-url",
         "sendBody": true,
-        "contentType": "json",
-        "body": "={{ $json }}",
+        "specifyBody": "json",
+        "jsonBody": "={{ $json }}",
         "options": {}
       },
-      "id": "95fb4c04-786e-4e17-afd7-1b5a8955cbd9",
+      "id": "a4eff06c-f32f-49a4-be46-31ef4bdba25f",
       "name": "Send results to webhook",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
